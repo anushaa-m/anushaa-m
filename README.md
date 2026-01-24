@@ -1,4 +1,4 @@
-Second-year IT student at Cummins College of Engineering, Pune.<br>
+Second-year IT student.<br>
 Interested in software development, data structures, and problem solving.<br>
 Currently strengthening CS fundamentals and Python skills.<br>
 
